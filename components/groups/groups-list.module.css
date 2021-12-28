@@ -1,0 +1,16 @@
+.tabs{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    list-style: none;
+}
+
+.tabItem{
+    font-weight: 500;
+    padding: 5px;
+    background-color: white;
+}
+
+.active{
+    border-bottom: solid #BF0000;
+}
